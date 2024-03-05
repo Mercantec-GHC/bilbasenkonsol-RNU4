@@ -1,0 +1,15 @@
+C:\Users\malt2\github-classroom\Mercantec-GHC\bilbasenkonsol-RNU4\bin\Debug\net6.0\BilbasenKonsol.exe
+C:\Users\malt2\github-classroom\Mercantec-GHC\bilbasenkonsol-RNU4\bin\Debug\net6.0\BilbasenKonsol.deps.json
+C:\Users\malt2\github-classroom\Mercantec-GHC\bilbasenkonsol-RNU4\bin\Debug\net6.0\BilbasenKonsol.runtimeconfig.json
+C:\Users\malt2\github-classroom\Mercantec-GHC\bilbasenkonsol-RNU4\bin\Debug\net6.0\BilbasenKonsol.dll
+C:\Users\malt2\github-classroom\Mercantec-GHC\bilbasenkonsol-RNU4\bin\Debug\net6.0\BilbasenKonsol.pdb
+C:\Users\malt2\github-classroom\Mercantec-GHC\bilbasenkonsol-RNU4\obj\Debug\net6.0\BilbasenKonsol.csproj.AssemblyReference.cache
+C:\Users\malt2\github-classroom\Mercantec-GHC\bilbasenkonsol-RNU4\obj\Debug\net6.0\BilbasenKonsol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malt2\github-classroom\Mercantec-GHC\bilbasenkonsol-RNU4\obj\Debug\net6.0\BilbasenKonsol.AssemblyInfoInputs.cache
+C:\Users\malt2\github-classroom\Mercantec-GHC\bilbasenkonsol-RNU4\obj\Debug\net6.0\BilbasenKonsol.AssemblyInfo.cs
+C:\Users\malt2\github-classroom\Mercantec-GHC\bilbasenkonsol-RNU4\obj\Debug\net6.0\BilbasenKonsol.csproj.CoreCompileInputs.cache
+C:\Users\malt2\github-classroom\Mercantec-GHC\bilbasenkonsol-RNU4\obj\Debug\net6.0\BilbasenKonsol.dll
+C:\Users\malt2\github-classroom\Mercantec-GHC\bilbasenkonsol-RNU4\obj\Debug\net6.0\refint\BilbasenKonsol.dll
+C:\Users\malt2\github-classroom\Mercantec-GHC\bilbasenkonsol-RNU4\obj\Debug\net6.0\BilbasenKonsol.pdb
+C:\Users\malt2\github-classroom\Mercantec-GHC\bilbasenkonsol-RNU4\obj\Debug\net6.0\BilbasenKonsol.genruntimeconfig.cache
+C:\Users\malt2\github-classroom\Mercantec-GHC\bilbasenkonsol-RNU4\obj\Debug\net6.0\ref\BilbasenKonsol.dll
